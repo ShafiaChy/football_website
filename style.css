@@ -29,6 +29,11 @@ body{
     
 }
 
+.banner-details{
+    color: white;
+    
+}
+
 .banner-container{
     width: 80%;
     height: 600px;
@@ -39,7 +44,7 @@ body{
 .banner-info{
    padding-left: 156px; 
    padding-right: 102px;
-   width: 485px; 
+   width: 500px; 
      
 }
 
@@ -296,6 +301,10 @@ footer{
         height: 50%;
         padding-left: 0 10px;
         
+    }
+    .banner-container{
+       
+        flex-direction: column-reverse;
     }
     
     .banner-info{
