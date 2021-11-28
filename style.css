@@ -31,8 +31,11 @@ body{
 
 .banner-details{
     color: white;
+    margin-bottom: 10px;
     
 }
+
+
 
 .banner-container{
     width: 80%;
