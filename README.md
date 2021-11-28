@@ -1,7 +1,7 @@
 # Frenzy Football.
 
 
-My project link: [Frenzy Football.](https://niche-website-36fe3.web.app/)
+My project link: [Frenzy Football.](https://infallible-galileo-49a4d7.netlify.app/)
 
 ## About my server
 <ol>
